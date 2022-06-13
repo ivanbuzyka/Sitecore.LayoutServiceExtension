@@ -1,0 +1,63 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>LayoutServiceExtension</PackageName>
+      <Author>Ivan Buzyka</Author>
+      <Version>1.0</Version>
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/content/headlesshome/{4A5C7AE2-A12F-43C4-AF87-399E10A59B3E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/headlesshome/home/{3BDC543F-9B8C-4779-813C-6BA6D8785BD3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/headlesshome/home/ds/{42F69530-4A9D-4A7F-AD9D-81408460D105}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/headlesshome/home/ds/ds1/{03A56CF1-CAC9-4C34-BE8D-48CA9F57BB38}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Layouts/Project/JSS Layout/{553788B5-15B7-4C85-98A7-2F3FBC191D66}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Placeholder Settings/Main/{73114EAC-2DDA-495D-B740-4D33D1D4D6E9}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Renderings/ContentBlock/{71DECD28-7009-4F51-8D5E-85E329F9489D}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Test Rendering Contents Resolver/{55EB9D52-E42B-40A5-9E6C-FFEF80C2A486}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>items</Name>
+    </xitems>
+    <xfiles>
+      <Entries>
+        <x-item>/Views/JssApp.cshtml</x-item>
+      </Entries>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms />
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>files</Name>
+    </xfiles>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>
